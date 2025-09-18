@@ -1,0 +1,162 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "chikitu",
+      "singer": "Anirudh Ravichander",
+      "genre": "Vibe",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjflnlnqv6E5bYWxD3PbAm7yGonLtFi58MF6cPewAcH_9kW0gn_5oSZ2d1&s=10",
+      "songUrl": "songs/Chikitu.mp3"
+    },
+    {
+      "id": "2",
+      "title": "PowerHouse",
+      "singer": "Anirudh Ravichander",
+      "genre": "Pop Music",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjflnlnqv6E5bYWxD3PbAm7yGonLtFi58MF6cPewAcH_9kW0gn_5oSZ2d1&s=10",
+      "songUrl": "songs/Powerhouse.mp3"
+    },
+    {
+      "id": "3",
+      "title": "Coolie Disco",
+      "singer": "Anirudh Ravichander,Siddharth Basur",
+      "genre": "Pop",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjflnlnqv6E5bYWxD3PbAm7yGonLtFi58MF6cPewAcH_9kW0gn_5oSZ2d1&s=10",
+      "songUrl": "songs/Coolie Disco.mp3"
+    },
+    {
+      "id": "4",
+      "title": "Monica",
+      "singer": "Anirudh Ravichander,Sublahshini,Asal Kollar",
+      "genre": "Dance Pop",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjflnlnqv6E5bYWxD3PbAm7yGonLtFi58MF6cPewAcH_9kW0gn_5oSZ2d1&s=10",
+      "songUrl": "songs/Monica.mp3"
+    },
+    {
+      "id": "5",
+      "title": "Badass",
+      "singer": "Anirudh Ravichander",
+      "genre": "Pop Rock",
+      "imgUrl": "https://live.staticflickr.com/65535/53217760948_16d5f70820_z.jpg",
+      "songUrl": "songs/Badass-MassTamilan.dev.mp3"
+    },
+    {
+      "id": "6",
+      "title": "Bloody Sweet",
+      "singer": "Anirudh Ravichander",
+      "genre": "pop musiqasi",
+      "imgUrl": "https://live.staticflickr.com/65535/53217760948_16d5f70820_z.jpg",
+      "songUrl": "songs/Bloody-Sweet-MassTamilan.dev.mp3"
+    },
+    {
+      "id": "7",
+      "title": "Aathi",
+      "singer": "Anirudh Ravichander,Vishal Dadlani",
+      "genre": "Romance",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHrgXAgwO4HwPvzxN9AZURC5656gPyKB6y_VJbQMSXZZujxGgvpf1xCoWe&s=10",
+      "songUrl": "songs/Aathi.mp3"
+    },
+    {
+      "id": "8",
+      "title": "Naa Ready",
+      "singer": "Anirudh Ravichander,Asal Kolaar,Vijay",
+      "genre": "Tamil Kuthu rap",
+      "imgUrl": "https://live.staticflickr.com/65535/53217760948_16d5f70820_z.jpg",
+      "songUrl": "songs/Naa-Ready-MassTamilan.dev.mp3"
+    }
+  ],
+  "favorities": [
+    {
+      "id": "53c7",
+      "itemId": "1",
+      "title": "chikitu",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjflnlnqv6E5bYWxD3PbAm7yGonLtFi58MF6cPewAcH_9kW0gn_5oSZ2d1&s=10",
+      "genre": "Vibe",
+      "songUrl": "songs/Chikitu.mp3",
+      "singer": "Anirudh Ravichander"
+    },
+    {
+      "id": "7675",
+      "itemId": "2",
+      "title": "PowerHouse",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjflnlnqv6E5bYWxD3PbAm7yGonLtFi58MF6cPewAcH_9kW0gn_5oSZ2d1&s=10",
+      "genre": "Pop Music",
+      "songUrl": "songs/Powerhouse.mp3",
+      "singer": "Anirudh Ravichander"
+    },
+    {
+      "id": "ef37",
+      "itemId": "3",
+      "title": "Coolie Disco",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjflnlnqv6E5bYWxD3PbAm7yGonLtFi58MF6cPewAcH_9kW0gn_5oSZ2d1&s=10",
+      "genre": "Pop",
+      "songUrl": "songs/Coolie Disco.mp3",
+      "singer": "Anirudh Ravichander,Siddharth Basur"
+    },
+    {
+      "id": "5959",
+      "itemId": "8",
+      "title": "Naa Ready",
+      "imgUrl": "https://live.staticflickr.com/65535/53217760948_16d5f70820_z.jpg",
+      "genre": "Tamil Kuthu rap",
+      "songUrl": "songs/Naa-Ready-MassTamilan.dev.mp3",
+      "singer": "Anirudh Ravichander,Asal Kolaar,Vijay"
+    },
+    {
+      "id": "0702",
+      "itemId": "4",
+      "title": "Monica",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjflnlnqv6E5bYWxD3PbAm7yGonLtFi58MF6cPewAcH_9kW0gn_5oSZ2d1&s=10",
+      "genre": "Dance Pop",
+      "songUrl": "songs/Monica.mp3",
+      "singer": "Anirudh Ravichander,Sublahshini,Asal Kollar"
+    }
+  ],
+  "playlist": [
+    {
+      "id": "9479",
+      "itemId": "1",
+      "title": "chikitu",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjflnlnqv6E5bYWxD3PbAm7yGonLtFi58MF6cPewAcH_9kW0gn_5oSZ2d1&s=10",
+      "genre": "Vibe",
+      "songUrl": "songs/Chikitu.mp3",
+      "singer": "Anirudh Ravichander"
+    },
+    {
+      "id": "5368",
+      "itemId": "2",
+      "title": "PowerHouse",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjflnlnqv6E5bYWxD3PbAm7yGonLtFi58MF6cPewAcH_9kW0gn_5oSZ2d1&s=10",
+      "genre": "Pop Music",
+      "songUrl": "songs/Powerhouse.mp3",
+      "singer": "Anirudh Ravichander"
+    },
+    {
+      "id": "2595",
+      "itemId": "3",
+      "title": "Coolie Disco",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjflnlnqv6E5bYWxD3PbAm7yGonLtFi58MF6cPewAcH_9kW0gn_5oSZ2d1&s=10",
+      "genre": "Pop",
+      "songUrl": "songs/Coolie Disco.mp3",
+      "singer": "Anirudh Ravichander,Siddharth Basur"
+    },
+    {
+      "id": "8ec5",
+      "itemId": "4",
+      "title": "Monica",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjflnlnqv6E5bYWxD3PbAm7yGonLtFi58MF6cPewAcH_9kW0gn_5oSZ2d1&s=10",
+      "genre": "Dance Pop",
+      "songUrl": "songs/Monica.mp3",
+      "singer": "Anirudh Ravichander,Sublahshini,Asal Kollar"
+    },
+    {
+      "id": "abcc",
+      "itemId": "8",
+      "title": "Naa Ready",
+      "imgUrl": "https://live.staticflickr.com/65535/53217760948_16d5f70820_z.jpg",
+      "genre": "Tamil Kuthu rap",
+      "songUrl": "songs/Naa-Ready-MassTamilan.dev.mp3",
+      "singer": "Anirudh Ravichander,Asal Kolaar,Vijay"
+    }
+  ]
+}
